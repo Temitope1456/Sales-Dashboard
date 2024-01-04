@@ -35,12 +35,11 @@ Top 5 Products by Revenue:
 - Item 3: $125k
 These products are the highest revenue generators for the company. Focusing on marketing and optimizing these products can help maintain and increase revenue.
 
-5. Top Companies by Revenue:
+4. Top Companies by Revenue:
 Top Companies by Revenue: Company S, Company N, Company J, Company C, and Company D
 These companies have generated the most revenue, indicating strong partnerships or consistent business relationships.
 
 ### RECOMMENDATIONS
-
 - Analyze the product portfolio to understand why certain products are underperforming. Consider discontinuing or rebranding low-performing products and invest in marketing and innovation for high-performing ones.
 - Given the revenue distribution across states, consider expanding operations or marketing efforts in regions with untapped potential, such as Arizona.
 - Nurture and strengthen relationships with top revenue-generating companies to ensure consistent and mutually beneficial partnerships.
