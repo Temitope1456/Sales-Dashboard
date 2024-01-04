@@ -1,5 +1,5 @@
 # SALES-INTERACTIVE-DASHBOARD
-
+![Excel Analysis](https://github.com/Temitope1456/Sales-Dashboard/assets/26870543/3cf1497b-47b1-4160-9927-833d92198ed5)
 ## Table of Contents
 - [INTRODUCTION](#INTRODUCTION)
 - [OBJECTIVES](#OBJECTIVES)
